@@ -2,8 +2,8 @@
 
 ## Høst 2019
 
-<span style="color:red">Miksens forelder</span>
+<Miksens forelder
 
 | Uke |  Miksens innhold | Johnny | Frode | Kim Tore | Sten | Mats | Line | Trong | Sindre | Torbjørn | Vegar |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  38 |   | <span style="color:red">Miksens forelder</span>  | 
+|  38 |   | Miksens forelder  | 
